@@ -9,6 +9,6 @@ This is the first website created as a part of the Full Stack Development course
 <a href="http://J-Rodshow44.github.io/Real-Time-Bus-Tracker"> Real Time Bus Tracker Exercise </a>
 
 ## PacMen Exercise
-<a href="http://J-Rodshow44.github.io/PacMen"> PacMen Exercise </a>
+<a href="http://J-Rodshow44.github.io/Pacmen"> PacMen Exercise </a>
 
 
