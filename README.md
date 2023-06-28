@@ -1,6 +1,6 @@
-# First Website
+# J-RodShow44's Repo
 
-This is the first website created as a part of the Full Stack Development course that I am taking.
+This Repo showcasses some of the projects that I have worked on as a part of the MIT XPRO Full Stack Software Development course that I am currently enrolled in.
 
 ## Eyes Exercise
 <a href="http://J-Rodshow44.github.io/Eyes"> Eyes Exercise </a>
