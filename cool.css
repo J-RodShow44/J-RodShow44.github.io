@@ -1,0 +1,30 @@
+body {
+    background-color: gray;
+  }
+  
+  header {
+    background-color: turquoise;
+  }
+  
+  nav {
+    background-color: navy;
+  }
+  
+  .navbar-nav .nav-link {
+    color: white;
+  }
+  
+  .dropdown-item {
+    color: black;
+  }
+  
+  .dropdown-item:hover {
+    color: white;
+    background-color: navy;
+  }
+  
+  main {
+    background-color: gray;
+    color: black;
+  }
+  
